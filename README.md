@@ -150,6 +150,20 @@ Possible future improvements include:
 
   ![Confusion Matrix](images/confusion_matrix.jpg)
 
+  # Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ghazalkoobchi/hotel-cancellation-prediction-dl.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 # Author
 
 Ghazal Koobchi
