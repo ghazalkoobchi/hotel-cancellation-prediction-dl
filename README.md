@@ -169,3 +169,7 @@ pip install -r requirements.txt
 Ghazal Koobchi
 
 Computer Science Graduate | Deep Learning & Data Science Enthusiast
+
+# Acknowledgments
+
+Special thanks to my teammates for their collaboration and support during the development of this university deep learning project.
